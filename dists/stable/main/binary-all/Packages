@@ -1,15 +1,15 @@
 Package: autodarts-kiosk
-Version: 1.1.6
+Version: 1.1.7
 Architecture: all
 Maintainer: Autodarts Kiosk Maintainers <noreply@example.invalid>
-Installed-Size: 3984
-Depends: nodejs (>= 18), npm, apt, ca-certificates, lightdm, openbox, xserver-xorg, x11-xserver-utils, chromium-browser | chromium, netcat-openbsd | netcat-traditional, network-manager, plymouth
+Installed-Size: 3996
+Depends: nodejs (>= 18), npm, apt, ca-certificates, debconf (>= 0.5) | debconf-2.0, lightdm, openbox, xserver-xorg, x11-xserver-utils, chromium-browser | chromium, netcat-openbsd | netcat-traditional, network-manager, plymouth
 Recommends: unclutter
-Filename: pool/main/a/autodarts-kiosk/autodarts-kiosk_1.1.6_all.deb
-Size: 1747370
-MD5sum: ae6fa043c24b4cd046c290bdf841306d
-SHA1: f242c608b9b0e6641025a25e47f6858129a4ea43
-SHA256: 3e7a9f816bd25958c1fee8a85c733d81c2323b9b04a40550747f2f754f58ff75
+Filename: pool/main/a/autodarts-kiosk/autodarts-kiosk_1.1.7_all.deb
+Size: 1748912
+MD5sum: 2d1f62cf19e00092017da8e187220d0e
+SHA1: 6fe8304eb95d6aed782227d792c7d933dc985c97
+SHA256: 326aa149f66c2f1390392f0297a90df0e07d8f43b01e347940c28d9bac683117
 Section: web
 Priority: optional
 Homepage: https://github.com/kersten/autodarts-kiosk
