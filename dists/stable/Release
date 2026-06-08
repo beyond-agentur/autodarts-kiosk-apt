@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Mon, 08 Jun 2026 13:28:02 +0000
+Date: Mon, 08 Jun 2026 13:35:19 +0000
 Description: Autodarts Kiosk APT Repository
 Label: Autodarts Kiosk
 Origin: Autodarts Kiosk
 Suite: stable
 MD5Sum:
- 3c4fef7271df5556885dd98f6db4a759              196 Release
- 80b1e5bf6a053dfe480ae74da8d69d72             1024 main/binary-all/Packages
- 4a45c042b7d7af4c75985fd15a65e886              675 main/binary-all/Packages.gz
+ c0c631d6f3f649bb3db079c854713111              196 Release
+ d2576e71f8c1de0f7a9936ba0b074fdd             1024 main/binary-all/Packages
+ 254723bb194f88eff1ef3a48d73312c3              676 main/binary-all/Packages.gz
 SHA1:
- f17dedaf32c1aa79038c144b54a38c35136c4a11              196 Release
- 781efc3b7d367b88af2a2d8ff999e3ba21621c96             1024 main/binary-all/Packages
- ce484c41b1545a9116d1e0a813b27f766ca72ec0              675 main/binary-all/Packages.gz
+ b88825e3cd1781c8cb414f983e6acdacd8ad2f13              196 Release
+ 42895582a80156c5465a00170e0cefceafcd490d             1024 main/binary-all/Packages
+ 56c9e9dec867dfaaf9ffb2e0b3171c7325949a2e              676 main/binary-all/Packages.gz
 SHA256:
- 0b81327dfe60b282e16234b76e5270fb97f3a904ee6313bb02713370226138e4              196 Release
- 34ed8340445d471092ac4bae5216e19df016afd752dc18c4aa300228ef2b8d7c             1024 main/binary-all/Packages
- 036b15e3e1ff8c8222c5f9f2f9d5e74395203b2b40996c512257b784be45f3c4              675 main/binary-all/Packages.gz
+ 25d35f6e7ffed3261ea4403bdacecfb0701b5bb73029756702cb06519f2e2c71              196 Release
+ a47f6e7173e721a92c75a32a034cba4d61a21d1632d205799f5482d602d28561             1024 main/binary-all/Packages
+ 7a1145b2b03c3ed6f2ab0ed447e02df14d50f1bb81befbaeb8441ada54f49f57              676 main/binary-all/Packages.gz
 SHA512:
- 5fd418ee0e0c49186eef5306304158fb87c65919742237e4843b5e749c15b0bc520317442d807e95fe36be31647da8ecb22467aef689f48cc2e5feb8dbd6f82b              196 Release
- bbb3e0792202ba2536eb736a3ff5d0e2cf93ac5ce83c7da4e39a2f8b65cd2547d0407e19e5cb53ce0e244c0e1cea0a684f7d1bb5421151a37f2c42182901aed2             1024 main/binary-all/Packages
- 9a165173d470a6a7d0947d488459891f7cc72c786450ea8091b3d645dc571ac668d64086dc6a3c30d8a01196294fade03b4d4727793831b02a3aa962c9d8972a              675 main/binary-all/Packages.gz
+ 4c672fd43d725baf2cf84504c66ef3e4e12b84f168175afcaa4401841a634a5ff29001301d890967b6c76f16172da00733f72831d2d514ec01b293c75a029786              196 Release
+ be79579e2c9a3ce37ad84a81b199e128a5c72dcf2a3365210bf663db0a338e55924f97fdcb0a25ddadf562c40ba175a07b0926fc6b8ae120bcf26440314120ff             1024 main/binary-all/Packages
+ a2be832eba7d6c77f4635d5449438df4703d8128becc82b1676c8e4724ce77158053b29861a2f33967dd97f539d3141fc8d144bca6d5a4c08267f19ece4d175b              676 main/binary-all/Packages.gz
