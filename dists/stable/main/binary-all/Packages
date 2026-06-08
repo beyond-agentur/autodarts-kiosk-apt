@@ -1,0 +1,21 @@
+Package: autodarts-kiosk
+Version: 1.1.1
+Architecture: all
+Maintainer: Autodarts Kiosk Maintainers <noreply@example.invalid>
+Installed-Size: 3964
+Depends: nodejs (>= 18), npm, apt, ca-certificates, lightdm, openbox, xserver-xorg, x11-xserver-utils, chromium-browser | chromium, netcat-openbsd | netcat-traditional, network-manager, plymouth
+Recommends: unclutter
+Filename: pool/main/a/autodarts-kiosk/autodarts-kiosk_1.1.1_all.deb
+Size: 1744650
+MD5sum: 3066abb7a3b0718780196d86f03d1d02
+SHA1: 038f2b87a82e89994b5e512764ba962952e08015
+SHA256: 0744eb82bdd3083e1a8f7dd5b97de7d58c19d24401dfdd0457d4de69d3e97f13
+Section: web
+Priority: optional
+Homepage: https://github.com/kersten/autodarts-kiosk
+Description: Autodarts Chromium kiosk runtime for Raspberry Pi
+ Launches Autodarts in Chromium kiosk mode through LightDM/Openbox, keeps
+ a branded boot/loading screen visible while the app prepares, automates
+ login from local per-device config, hides non-kiosk UI, and repairs the
+ system integration state after package upgrades.
+

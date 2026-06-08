@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Autodarts Kiosk APT Repository</title>
+</head>
+<body>
+  <h1>Autodarts Kiosk APT Repository</h1>
+  <pre><code>curl -fsSL https://beyond-agentur.github.io/autodarts-kiosk-apt/autodarts-kiosk-archive-keyring.gpg \
+  | sudo tee /usr/share/keyrings/autodarts-kiosk-archive-keyring.gpg >/dev/null
+
+echo "deb [signed-by=/usr/share/keyrings/autodarts-kiosk-archive-keyring.gpg] https://beyond-agentur.github.io/autodarts-kiosk-apt stable main" \
+  | sudo tee /etc/apt/sources.list.d/autodarts-kiosk.list >/dev/null
+
+sudo apt update
+sudo apt install autodarts-kiosk</code></pre>
+</body>
+</html>
